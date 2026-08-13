@@ -1,1 +1,55 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salon Cloth House</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Salon Cloth House</h1>
+    <p>Luxury Fashion Collection</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Products</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Premium Clothing For Modern Style</h2>
+    <p>Discover luxury fashion, elegant designs and high quality clothes.</p>
+    <button onclick="welcome()">Shop Now</button>
+</section>
+
+<section class="products">
+
+<div class="card">
+    <h3>Men Collection</h3>
+    <p>Premium shirts, suits and traditional wear.</p>
+</div>
+
+<div class="card">
+    <h3>Women Collection</h3>
+    <p>Elegant dresses and stylish fashion wear.</p>
+</div>
+
+<div class="card">
+    <h3>New Arrivals</h3>
+    <p>Latest designs with luxury quality.</p>
+</div>
+
+</section>
+
+<footer>
+    <p>© 2026 Salon Cloth House | All Rights Reserved</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
